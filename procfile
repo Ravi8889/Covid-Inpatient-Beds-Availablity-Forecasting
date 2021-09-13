@@ -1,0 +1,2 @@
+web:covidapp.py:flask_app 
+heroku ps:scale web=1
